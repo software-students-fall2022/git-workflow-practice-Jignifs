@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# The future of the web will need a different sort of software developer 
+
+https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/
+
+I found this article interesting because it shows how the role of the Software Developer is constantly changing as the technology world changes. It says how automation tools for programming, such as low-code or code suggestion tools are constantly improving, which means that software developers will need to spend less time coding. This does not mean the demand for software developers will decrease, but means that the skills required for the future software engineer will be different than the current skills required. This will allow for people in different backgrounds (outside of coding) to enter more easily into the software engineer market. Furthermore, I found it interesting how the article suggests there will be a stronger focus towards AI and IoT developers, since the internet will use these technologies to become even more integrated.
